@@ -60,3 +60,5 @@ plt.xticks(range(len(span)),values)
 # for x, y in enumerate(y):
 #     plt.text(x, y + 100, '%s' % round(y, 1), ha='center') # 显示图形plt.show()
 plt.show()
+
+print 'done!'
